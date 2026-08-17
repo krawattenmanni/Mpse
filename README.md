@@ -11,3 +11,5 @@
 ​100% Offline & Private: Operates completely via a local Android WebView. Your save files never leave your device and are processed entirely on-chip.
 
 ​Responsive Mobile UI: Clean and simple web-based user interface optimized for smartphones.
+
+This app is self-signed, so you might see a security warning during installation. You can safely ignore it by clicking 'Install anyway'
