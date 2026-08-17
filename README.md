@@ -3,6 +3,7 @@
 ​A lightweight, offline-capable Android application built with Sketchware Pro to view, edit, and compress/decompress game save files directly on your mobile device.
 
 ✨ Features
+
 ​Direct Savegame Manipulation: Easily upload, edit, and export JSON-based save files (such as GameData.json or GameMetaData.json).
 
 ​Built-in Decompression Support: Integrated with pako.min.js to process gzip/zlib compressed save files seamlessly.
